@@ -1,0 +1,20 @@
+{
+  "name": "url-encoded",
+  "version": "1.0.0",
+  "description": "Parse urlencoded string into JSON in ONE line of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parse",
+    "string",
+    "urlencoded",
+    "JSON",
+    "regular",
+    "expresion",
+    "regexp"
+  ],
+  "author": "Shlomi Elbaz",
+  "license": "ISC"
+}
