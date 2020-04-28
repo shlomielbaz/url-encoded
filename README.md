@@ -19,4 +19,4 @@ Convert urlencoded string ('application/x-www-form-urlencoded') into valid JSON 
 ```
 
 ### Running example:
-Assuming NodeJS already installed on the machine, get into the url-encoded and run:  ```javascript node index.js ```
+Assuming NodeJS already installed on the machine, get into the url-encoded and run:  ``` node index.js ```
