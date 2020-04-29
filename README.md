@@ -22,3 +22,5 @@ And convert it to Javascript literal object such as:
 
 ### Running example:
 Assuming NodeJS already installed on the machine, get into the url-encoded and run:  ``` node index.js ```
+
+To get more information read [parse urlencoded string-json in one line code](https://www.linkedin.com/pulse/parse-urlencoded-string-json-one-line-code-shlomi-elbaz/)
